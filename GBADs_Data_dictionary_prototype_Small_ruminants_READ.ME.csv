@@ -1,0 +1,19 @@
+﻿Parameter,Parameter name
+Data_categories_A,Top level data category
+Data_categories_B,Second level data category
+Data_categories_C,Third level data category
+Relationship to dynamic population model,"Realtionship of the parameter to the GBADs dynamic population model (e.g input parameter, output etc)"
+Definition,Definition of the parameter
+Definition notes,Notes on defintion
+Stratification,Levels of stratification - minimum is usually age and sex.
+DataType,
+Calculations,Methods for calulcating the parameter value
+Related parameters,Realtionship to other parameters in the model or from which it can be derived
+Species_Sheep,Used in Sheep model 1; not used 0
+Species_goats,Used in Goat model 1; not used 0
+DPM.V1.0_code,Code for this parameter in GBADs DPM V1.0
+DPM.V2.0_code,Code for this parameter in GBADs DPM V2.0
+code_notes,Notes on code
+Modeling notes,Additional notes on use of parameter in GBADs DPM
+AHLE: current,"How parameterised in the current health scenario - ""Fixed"" parameters are predefined; ""current estimate"" parameters require values to be assigned derived from data/literature etc"
+AHLE: ideal,"How parameterised in the ideal health scenario - ""Fixed"" parameters are predefined; ""as current"" parameters are assumed to be the same under current and ideal health; ""Derived from current"" parameters are adjusted for ideal health in relation to their estimate under surrent health; ""ideal estimate"" parameters require an estimate to be defined specifically for the ideal health scenario."
